@@ -18,8 +18,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 </p> 
  
-<p align="center" >
-<a href="https://www.linkedin.com/in/viniciusoliveiras-01532" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="20" width="20" /></a>
-<a href="mailto:vinitag190@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="20" width="20" /></a>
-<a href="https://instagram.com/svini.oliveira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="20" width="20" /></a>
+<p align="center">
+ <a href="https://www.linkedin.com/in/viniciusoliveiras-01532" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"    alt="Linkedin" height="20" width="20" /></a>&nbsp;
+ <a href="mailto:vinitag190@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="20" width="20" /></a>&nbsp;
+ <a href="https://instagram.com/svini.oliveira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="20" width="20" /></a>
 </p>
