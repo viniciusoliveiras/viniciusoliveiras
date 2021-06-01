@@ -3,8 +3,9 @@
 
 <p align="center">
   <a href="https://github.com/viniciusoliveiras">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusoliveiras&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusoliveiras&layout=compact&langs_count=16&theme=gotham"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusoliveiras&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusoliveiras&layout=compact&langs_count=16&theme=gotham" />
+  </a>
 </p>
 
  - 💻 Estou cursando Análise e Desenvolvimento de Sistemas na **Unicarioca**
@@ -21,7 +22,7 @@
   <a href="https://instagram.com/svini.oliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </p>
 
-<a href="https://github.com/viniciusoliveiras">
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="30" width="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  height="30" width="40"/>&nbsp;
