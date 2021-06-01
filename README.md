@@ -25,4 +25,4 @@
  <a href="https://instagram.com/svini.oliveira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="20" width="20" /></a>
 </p>
 
-![Snake animation](https://github.com/viniciusoliveiras/viniciusoliveiras/blob/output/github-contribution-grid-snake.svg)
+
