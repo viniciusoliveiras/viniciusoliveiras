@@ -16,6 +16,10 @@
  
 - ⚡ Fun fact: Casa Stark 🐺
  
+
+  ![Snake animation](https://github.com/viniciusoliveiras/viniciusoliveiras/blob/output/github-contribution-grid-snake.svg)
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/viniciusoliveiras-01532" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto: vinitag190@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -31,7 +35,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="30" width="40"/>
 </p> 
  
- ![Snake animation](https://github.com/viniciusoliveiras/viniciusoliveiras/blob/output/github-contribution-grid-snake.svg)
-
-
-
