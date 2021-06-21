@@ -14,7 +14,7 @@
  
  - 💬 Curto tecnologias futuristas, games como Valorant e também filme e séries
  
-- ⚡ Fun fact: Casa Stark 🐺
+- 😄 Fun fact: Casa Stark 🐺
  
 
   ![Snake animation](https://github.com/viniciusoliveiras/viniciusoliveiras/blob/output/github-contribution-grid-snake.svg)
