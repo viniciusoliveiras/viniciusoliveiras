@@ -1,5 +1,5 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Vinícius Oliveira</h1>
-<h3 align="center">Um estudante de TI e apaixonado por aprender coisas novas</h3>
+<h3 align="center">Estagiário em desenvolvimento front-end e apaixonado por aprender coisas novas</h3>
 
 <p align="center">
   <a href="https://github.com/viniciusoliveiras">
@@ -8,13 +8,27 @@
   </a>
 </p>
 
- - 💻 Estou cursando Análise e Desenvolvimento de Sistemas na **Unicarioca**
+ - 💻 Estou cursando Análise e Desenvolvimento de Sistemas na [Unicarioca](https://unicarioca.edu.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas);
  
- - 👨🏾‍💻 Atualmente estou estudando tecnologias front-end, em particular o React 
+ - 👨🏾‍💻 Estou estagiando na [Devex Soluções](https://github.com/dvx-solutions);
  
- - 💬 Curto tecnologias futuristas, games como Valorant e também filme e séries
+ - 📓 Atualmente estou estudando tecnologias front-end, em particular o React;
  
-- 😄 Fun fact: Casa Stark 🐺
+ - 💬 Curto tecnologias futuristas, games como Valorant e também filme e séries;
+ 
+ - 😄 Fun facts: Casas Stark e Corvinal
+    <img src= height="60" />
+    
+    <table>
+  <tr>
+    
+	<td align="center"><a href="https://github.com/viniciusoliveiras"><img style="border-radius: 50%;" src="https://static.wikia.nocookie.net/gameofthrones/images/8/8a/House-Stark-Main-Shield.PNG/revision/latest?cb=20170101103142" width="100px;" alt=""/><br /><sub><b>Vinícius Oliveira</b></sub></a><br /><sub><b>Análise e Desenvolvimento de Sistemas</br></sub></td>
+    
+	<td align="center"><a href="https://github.com/mateus-azevedo"><img style="border-radius: 50%;" src="https://static.wikia.nocookie.net/harrypotter/images/7/71/Ravenclaw_ClearBG.png/revision/latest/scale-to-width-down/350?cb=20161020182442" width="100px;" alt=""/><br /><sub><b>Mateus Santos</b></sub></a><br /><sub><b>Análise e Desenvolvimento de Sistemas</br></sub></td>
+    
+	
+ </tr>
+</table>
  
 
   ![Snake animation](https://github.com/viniciusoliveiras/viniciusoliveiras/blob/output/github-contribution-grid-snake.svg)
