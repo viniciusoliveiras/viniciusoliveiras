@@ -8,31 +8,42 @@
   </a>
 </p>
 
- - 💻 Estou cursando Análise e Desenvolvimento de Sistemas na [Unicarioca](https://unicarioca.edu.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas);
- 
- - 👨🏾‍💻 Estou estagiando na [Devex Soluções](https://github.com/dvx-solutions);
- 
- - 📓 Atualmente estou estudando tecnologias front-end, em particular o React;
- 
- - 💬 Curto tecnologias futuristas, games como Valorant e também filme e séries;
- 
- - 😄 Fun facts: Casas Stark e Corvinal
-    <img src= height="60" />
-    
+- 💻 Estou cursando Análise e Desenvolvimento de Sistemas na [Unicarioca](https://unicarioca.edu.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas);
+
+- 👨🏾‍💻 Estou estagiando na [Devex Soluções](https://github.com/dvx-solutions);
+
+- 📓 Atualmente estou estudando tecnologias front-end, em particular o [React](https://pt-br.reactjs.org/);
+
+- 🌐 Veja alguns dos meus projetos de estudo no meu [portfólio](http://viniciusoliveiras.vercel.app/);
+
+- 💬 Curto tecnologias futuristas, games como Valorant e também filme e séries;
+
+- 😄 Fun facts:
     <table>
   <tr>
-    
-	<td align="center"><a href="https://github.com/viniciusoliveiras"><img style="border-radius: 50%;" src="https://static.wikia.nocookie.net/gameofthrones/images/8/8a/House-Stark-Main-Shield.PNG/revision/latest?cb=20170101103142" width="100px;" alt=""/><br /><sub><b>Vinícius Oliveira</b></sub></a><br /><sub><b>Análise e Desenvolvimento de Sistemas</br></sub></td>
-    
-	<td align="center"><a href="https://github.com/mateus-azevedo"><img style="border-radius: 50%;" src="https://static.wikia.nocookie.net/harrypotter/images/7/71/Ravenclaw_ClearBG.png/revision/latest/scale-to-width-down/350?cb=20161020182442" width="100px;" alt=""/><br /><sub><b>Mateus Santos</b></sub></a><br /><sub><b>Análise e Desenvolvimento de Sistemas</br></sub></td>
-    
-	
- </tr>
+    <td align="center">
+      <a href="https://gameofthrones.fandom.com/wiki/House_Stark"
+        ><img
+          src="https://static.wikia.nocookie.net/gameofthrones/images/8/8a/House-Stark-Main-Shield.PNG/revision/latest?cb=20170101103142"
+          width="100px;"
+          alt="Brasão Casa Stark"
+        /><br /><sub><b>Casa Stark</b></sub></a
+      >
+    </td>
+
+    <td align="center">
+      <a href="https://harrypotter.fandom.com/wiki/Ravenclaw"
+        ><img
+          src="https://static.wikia.nocookie.net/harrypotter/images/7/71/Ravenclaw_ClearBG.png/revision/latest/scale-to-width-down/350?cb=20161020182442"
+          width="100px;"
+          alt="Brasão Casa Corvinal"
+        /><br /><sub><b>Casa Corvinal</b></sub></a
+      >
+    </td>
+  </tr>
 </table>
- 
 
-  ![Snake animation](https://github.com/viniciusoliveiras/viniciusoliveiras/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/viniciusoliveiras/viniciusoliveiras/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/viniciusoliveiras-01532" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -40,12 +51,10 @@
   <a href="https://instagram.com/svini.oliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </p>
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="30" width="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  height="30" width="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  height="30" width="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30" width="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="30" width="40"/>
-</p> 
- 
+</p>
