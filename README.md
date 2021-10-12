@@ -37,19 +37,23 @@
 <table>
   <tr>
     <td align="center">
-      <img
-        src="https://static.wikia.nocookie.net/gameofthrones/images/8/8a/House-Stark-Main-Shield.PNG/revision/latest?cb=20170101103142"
-        width="100px;"
-        alt="Brasão Casa Stark"
-      /><br /><sub><b>Casa Stark</b></sub>
+      <a href="https://gameofthrones.fandom.com/wiki/House_Stark" target="_blank"
+        ><img
+          src="https://static.wikia.nocookie.net/gameofthrones/images/8/8a/House-Stark-Main-Shield.PNG/revision/latest?cb=20170101103142"
+          width="100px;"
+          alt="Brasão Casa Stark"
+        /><br /><sub><b>Casa Stark</b></sub></a
+      >
     </td>
 
     <td align="center">
-      <img
-        src="https://static.wikia.nocookie.net/harrypotter/images/7/71/Ravenclaw_ClearBG.png/revision/latest/scale-to-width-down/350?cb=20161020182442"
-        width="100px;"
-        alt="Brasão Casa Corvinal"
-      /><br /><sub><b>Casa Corvinal</b></sub>
+      <a href="https://harrypotter.fandom.com/wiki/Ravenclaw" target="_blank"
+        ><img
+          src="https://static.wikia.nocookie.net/harrypotter/images/7/71/Ravenclaw_ClearBG.png/revision/latest/scale-to-width-down/350?cb=20161020182442"
+          width="100px;"
+          alt="Brasão Casa Corvinal"
+        /><br /><sub><b>Casa Corvinal</b></sub></a
+      >
     </td>
   </tr>
 </table>
