@@ -2,7 +2,7 @@
   Olá
   <img
     src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"
-    width="30px"
+    height="30px"
   />, eu sou o Vinícius Oliveira
 </h1>
 <h3 align="center">
