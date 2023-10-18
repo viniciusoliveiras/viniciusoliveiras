@@ -6,7 +6,7 @@
   />, eu sou o Vinícius Oliveira
 </h1>
 <h3 align="center">
-  Estagiário em desenvolvimento front-end e apaixonado por aprender coisas novas
+  Analista de Sistema e Desenvolvedor Frontend 
 </h3>
 
 <p align="center">
